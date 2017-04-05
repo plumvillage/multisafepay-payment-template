@@ -109,6 +109,10 @@ h1, h2, h3, h4, h5 {
 .notice {
     font-weight: bold;
 }
+.notice .icon,
+.notice ul {
+    display: inline-block;
+}
 fieldset.single {
     background: white;
     border: 0;
